@@ -1,3 +1,4 @@
 [tools]
 colima = "latest"
 docker = "latest"
+docker-compose = "latest"
